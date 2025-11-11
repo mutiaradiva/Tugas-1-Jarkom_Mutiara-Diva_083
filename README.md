@@ -1,5 +1,8 @@
 # Tugas-1-Jarkom_Mutiara-Diva_083
 Dokumentasi Tugas 1 Jarkom Subnetting
+- [Topologi](#topologi)
+- [Konfigurasi](#konfigurasi)
+- [Testing](#testing)
 
 ## Topologi
 ![](images/topologi.png)
